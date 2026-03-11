@@ -1,26 +1,21 @@
-# Manufacturing Analysis Project
-
-This project analyzes manufacturing data using multiple data analytics tools.
-
-## Tools Used
-- Power BI
-- Tableau
-- Microsoft Excel
-- SQL
+# Manufacturing Data Analysis Project
 
 ## Project Overview
-This project focuses on analyzing manufacturing performance such as production trends, efficiency, and operational insights.
+This project analyzes manufacturing data using SQL and visualizes insights using Excel, Power BI, and Tableau dashboards.
+
+## Tools Used
+- SQL
+- Excel
+- Power BI
+- Tableau
 
 ## Dashboards
-Power BI Dashboard
-Tableau Dashboard
-Excel Dashboard
 
-## Key Insights
-- Production performance trends
-- Department level analysis
-- Operational efficiency insights
+### Excel Dashboard
+![Excel Dashboard](excel manufacturing dashboard.png)
 
-## Author
-Gedala Rekha
-Aspiring Data Analyst
+### Power BI Dashboard
+![Power BI Dashboard](Power BI manufacturing dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](tableau manufacturing dashboard.png)
